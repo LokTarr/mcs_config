@@ -1,2 +1,1 @@
-# mcs_config
-SpringCloud Config测试配置
+# SpringCloud Config测试配置 #
